@@ -1,8 +1,10 @@
+import React from 'react'
+import HomePage from './layouts/HomePage'
 
 function App() {
   return (
     <div>
-      Hi Deepak
+      <HomePage />
     </div>
   );
 }
